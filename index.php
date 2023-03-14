@@ -53,8 +53,39 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
 </head>
 <body>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+  <div class="card-header">
+                <h1>PHP HOTEL, verifica disponibilità:</h1>
 
-<h1>Prova</h1>
+  </div>
+  <div class="card-body">
+         <table class="table table-striped">
+            <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+            </table>
+        </div>
+  </div>
+</div>
+       
+    </div>
+</div>
     
 </body>
 </html>
