@@ -55,11 +55,11 @@
 <body>
 <div class="container">
     <div class="row">
-        <div class="col-12">
+        <div class="col-12 mt-5">
 
             <div class="card">
-  <div class="card-header">
-                <h1>PHP HOTEL, verifica disponibilità:</h1>
+  <div class="card-header text-center">
+                <h1>PHP HOTEL - Verifica Disponibilità:</h1>
 
   </div>
   <div class="card-body">
