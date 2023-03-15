@@ -82,7 +82,7 @@
       <th scope="row"><?= $key + 1 ?></th>
       <td> <?= $hotel["name"] ?></td>
       <td> <?= $hotel["description"] ?></td>
-      <td> <?= $hotel["parking"] ?></td>
+      <td> <?= $hotel["parking"] == 1 ? "Sì" : "No" ?></td>
       <td> <?= $hotel["vote"] ?></td>
       <td> <?= $hotel["distance_to_center"] ?></td>
     </tr>
